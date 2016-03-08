@@ -1,7 +1,7 @@
 
 public class Duck extends Bird {
-	public Duck(String name,  int legs, int length) {
-		super(name, 2, length);
+	public Duck(String name,  int length) {
+		super(name, length);
 	}
 	public void fly() {
 		System.out.println("오리("+getName() + "는 날지 않습니다.");

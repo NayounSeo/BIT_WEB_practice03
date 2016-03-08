@@ -4,9 +4,9 @@ public abstract class Bird {
 	private int legs;
 	private int length;
 	
-	public Bird(String name, int legs, int length) {
+	public Bird(String name, int length) {
 		this.name = name;
-		this.legs = legs;
+		this.legs = 2;
 		this.length = length;
 	}
 	public abstract void  fly();

@@ -1,8 +1,8 @@
 
 public class Sparrow extends Bird{
 
-	public Sparrow(String name, int legs, int length) {
-		super(name, 2, length);
+	public Sparrow(String name, int length) {
+		super(name, length);
 	}
 	public void fly() {
 		System.out.println("참새("+getName()+")가 날아다닙니다.");
