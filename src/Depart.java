@@ -5,7 +5,7 @@ public class Depart extends Employee {
 		super(name, salary);
 		this.department = department;
 	}
-	public void getInformation() {
+	public void getInformation() { 
 		System.out.printf("이름 : %s   연봉 : %d   부서 : %s\n", getName(), getSalary(), department);
 	}
 

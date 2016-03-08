@@ -10,7 +10,7 @@ public class Shape {
 		this.point = point;
 	}
 	
-	public void show() {
+	public void show() { 
 		System.out.println("점 [x = "+point.getX()+", y = "+point.getY()+"] 를 그렸습니다.");
 	}
 	

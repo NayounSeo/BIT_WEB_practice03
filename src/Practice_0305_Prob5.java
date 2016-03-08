@@ -4,7 +4,7 @@ public class Practice_0305_Prob5 {
 		Base base = new MyBase();
 		base.service("³·");
 		base.service("¹ã");
-		base.service("¿ÀÈÄ");
+		base.service("¿ÀÈÄ"); 
 	}
 
 }

@@ -10,7 +10,7 @@ public class Practice_0302 {
 	
 	public static void howMuch(int money) {
 		int unit = 50000;
-		//이것도 쓰고 나니까 너무 기네....
+		//이것도 쓰고 나니까 너무 기네.... 
 		while(money > 0) {
 			money -= calculating(money, unit)*unit;
 			unit = 10000;

@@ -5,7 +5,7 @@ public class PaintApp {
 		Shape s1 = new Shape(p1);
 		Point p2 = new Point(7, 10);
 		Shape s2 = new Shape(p2);
-		Point p3 = new Point(10, 23);
+		Point p3 = new Point(10, 23); 
 		Shape s3 = new Shape(p3);
 		s1.show();
 		s2.show(true);

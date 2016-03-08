@@ -11,7 +11,7 @@ public class Swap {
 		Value v1 = new Value();
 		Value v2 = new Value();
 		v1.setValue(10);
-		v2.setValue(20);
+		v2.setValue(20);  
 		swap2(v1, v2);
 		
 //		System.out.println(v1 + ", " + v2); //-----------1

@@ -7,7 +7,7 @@ public class Practice_0304 {
 		System.out.println("다섯개 숫자를 입력하세요 : 10");
 		for (int i = 0; i<5; i++) {
 			intArray[i] = in.nextInt();
-			sum += intArray[i];
+			sum += intArray[i]; 
 		}
 		System.out.println("주어진 숫자들의 평균은 "+(double)sum/5+" 입니다.");
 	}

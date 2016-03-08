@@ -11,7 +11,7 @@ public class TV {
 	}
 	public int getChannel() {
 		return channel;
-	}
+	} 
 	public int getVolume() {
 		return volume;
 	}

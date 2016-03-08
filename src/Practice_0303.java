@@ -16,7 +16,7 @@ public class Practice_0303 {
 		}
 		return tmpch;
 		//enhanced for loop 사용 불가. 이건 배열에 대해서만 되는거였다.. 연지 짱짱걸!
-		//대신 str.charAt(int index) 함수를 사용했다.
+		//대신 str.charAt(int index) 함수를 사용했다. 
 	}
 	
 	public static void printCharArray(char[] array){
@@ -30,11 +30,5 @@ public class Practice_0303 {
 //				a[a.length-i-1] = temp;
 //			}
 //		}
-/*B, to the A, to the N to the G to the, Ah
- * B, to the A, to the N to the G to the, oh
- * See Anybody could be Good to you
- * but you need a Bad girl to blow your mind
- * ~~~~~~~~~~~~~~~~~~~~~~
- * 
- */
+
 }

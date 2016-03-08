@@ -12,7 +12,7 @@ public class WathTV {
         tv.status();
         
         tv.channel( 1 );
-        tv.status();		          
+        tv.status();		           
         
         tv.channel( true );
         tv.channel( true );

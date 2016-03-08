@@ -8,7 +8,7 @@ public class SongApp {
 		Song s2 = new Song("ÇÁ·Îµà½º 101", "Pick Me", null, 2016, 0, null);
 		Song s3 = new Song("¸¶¸¶¹«", "³Íis¹ºµé");
 		s1.show();
-		s2.show();
+		s2.show(); 
 		s3.show();
 	}
 }

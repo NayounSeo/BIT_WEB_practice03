@@ -6,7 +6,7 @@ public class Value {
 		return value;
 	}
 
-	public void setValue(int value) {
+	public void setValue(int value) { 
 		this.value = value;
 	}
 

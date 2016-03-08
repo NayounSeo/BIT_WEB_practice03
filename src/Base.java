@@ -4,7 +4,7 @@ public class Base {
 		if(state.equals("³·")) { 
 			day();
 		} else {
-			night();
+			night();  
 		}
 	}
 	public void day() {
